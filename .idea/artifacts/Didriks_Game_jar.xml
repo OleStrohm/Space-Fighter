@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Didriks Game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Didriks_Game_jar</output-path>
+    <root id="archive" name="Didriks Game.jar">
+      <element id="module-output" name="Space Fighter" />
+    </root>
+  </artifact>
+</component>
